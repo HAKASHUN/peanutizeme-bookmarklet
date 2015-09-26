@@ -26,5 +26,6 @@ javascript:(function()%7Bvar%20stage%20%3D%20document.getElementById(%22stage%22
 
 ## Works In
 
-I've currently confirmed only in Chrome.
+I've currently confirmed only in Chrome(45.0.2454.99).
+
 
