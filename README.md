@@ -10,17 +10,17 @@ javascript:(function()%7Bvar%20stage%20%3D%20document.getElementById(%22stage%22
 
 ## Usage
 
-1. Once your work is done , please move to "skin" screen again.
+1. Once your work is done, please move to "skin" screen again.
 
-<img width="400" alt="2015-09-26 10 53 13" src="https://cloud.githubusercontent.com/assets/1150412/10117947/09a002b4-64a4-11e5-8384-a1cfbea84cec.png">
+  <img width="400" alt="2015-09-26 10 53 13" src="https://cloud.githubusercontent.com/assets/1150412/10117947/09a002b4-64a4-11e5-8384-a1cfbea84cec.png">
 
 2. When you click on the bookmarklet, it'll give you a text prompt. Type in his/her name, and hit return. You'll get a "DOWNLOAD" Button!
 
-<img width="400" alt="_2015-09-26_ 11_00_02" src="https://cloud.githubusercontent.com/assets/1150412/10117892/6aaf90d0-64a2-11e5-9598-dcc92e386f33.png">
+  <img width="400" alt="_2015-09-26_ 11_00_02" src="https://cloud.githubusercontent.com/assets/1150412/10117892/6aaf90d0-64a2-11e5-9598-dcc92e386f33.png">
 
 3. Clicking "DOWNLOAD" button, you can download.
 
-<img width="400" src="https://cloud.githubusercontent.com/assets/1150412/10117917/585b5878-64a3-11e5-8bd0-0e59fd2df7ea.png" />
+  <img width="400" src="https://cloud.githubusercontent.com/assets/1150412/10117917/585b5878-64a3-11e5-8bd0-0e59fd2df7ea.png" />
 
 4. If you have to edit something , please run the bookmarklet again.
 
