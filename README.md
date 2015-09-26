@@ -12,7 +12,7 @@ javascript:(function()%7Bvar%20stage%20%3D%20document.getElementById(%22stage%22
 
 1. Once your work is done , please move to "skin" screen again.
 
-<img width="400" alt="2015-09-26 10 53 13" src="https://cloud.githubusercontent.com/assets/1150412/10117872/746df3a6-64a1-11e5-8da0-77b16d6d3acb.png">
+<img width="400" alt="2015-09-26 10 53 13" src="https://cloud.githubusercontent.com/assets/1150412/10117947/09a002b4-64a4-11e5-8384-a1cfbea84cec.png">
 
 2. When you click on the bookmarklet, it'll give you a text prompt. Type in his/her name, and hit return. You'll get a "DOWNLOAD" Button!
 
