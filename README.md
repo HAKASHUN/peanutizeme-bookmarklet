@@ -1,6 +1,6 @@
 # Peanutizeme Bookmarklet
 
-Get your peanutizeme with transparency.
+Get your [peanutizeme](http://www.peanutizeme.com/) with transparency.
 
 Just add the bookmarklet below to your bookmarks bar.
 
